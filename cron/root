@@ -1,1 +1,1 @@
-* * * * * sh /data/adb/modules/fake_gsm_sim_operator/apply.sh
+* * * * * sh /data/adb/modules/gsm_faker/apply.sh
