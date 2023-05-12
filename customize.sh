@@ -1,9 +1,9 @@
 ui_print '
-This module will enable Google Location History.
 
 Following properties will be changed:
- * gsm.sim.operator.numeric: 310030
- * gsm.sim.operator.iso-country: us
+ * gsm.sim.operator.alpha: O2
+ * gsm.sim.operator.numeric: 23402
+ * gsm.sim.operator.iso-country: gb
 
 These packages will be cleared on next reboot:
  * com.google.android.gms
