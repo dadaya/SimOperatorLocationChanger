@@ -1,4 +1,4 @@
-id=fake_gsm_sim_operator
+id=gsm_faker
 name=LocationChanger
 version=1.0
 versionCode=1
