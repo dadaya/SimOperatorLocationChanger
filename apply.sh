@@ -1,6 +1,7 @@
 PROPERTY='
-gsm.sim.operator.numeric=310030
-gsm.sim.operator.iso-country=us
+gsm.sim.operator.numeric=23402
+gsm.sim.operator.iso-country=gb
+gsm.sim.operator.alpha=O2
 '
 
 for PROP in $PROPERTY; do
