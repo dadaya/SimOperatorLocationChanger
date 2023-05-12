@@ -1,6 +1,6 @@
 id=fake_gsm_sim_operator
-name=Location Report Enabler
-version=1.4
-versionCode=5
-author=fa1se
-description=Enable Google Location History in regions not available.
+name=LocationChanger
+version=1.0
+versionCode=1
+author=westruk
+description=GSM Location Changer.
