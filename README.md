@@ -1,7 +1,7 @@
 # SimOperatorLocationChanger
 
 
-[SimOperatorLocationChanger]([(https://github.com/westruk/LocationChanger](https://github.com/westruk/LocationChanger)) with Magisk/KernelSU.
+[SimOperatorLocationChanger](https://github.com/westruk/SimOperatorLocationChanger/) with Magisk/KernelSU.
 
 ## How it works
 
