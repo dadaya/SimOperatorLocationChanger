@@ -1,7 +1,7 @@
-# LocationChanger
+# SimOperatorLocationChanger
 
 
-[LocationChanger]([https://github.com/GhostFlying/LocationReportEnabler](https://github.com/westruk/LocationChanger)) with Magisk.
+[SimOperatorLocationChanger]([(https://github.com/westruk/LocationChanger](https://github.com/westruk/LocationChanger)) with Magisk/KernelSU.
 
 ## How it works
 
