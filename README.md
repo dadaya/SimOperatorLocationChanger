@@ -18,3 +18,4 @@ Also on first reboot after installation, data of the following packages will be 
 
 - `com.google.android.gms`
 - `com.google.android.gsf`
+- `com.android.vending`
