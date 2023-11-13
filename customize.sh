@@ -11,6 +11,7 @@ Following properties will be changed:
 These packages will be cleared on next reboot:
  * com.google.android.gms
  * com.google.android.gsf
+ * com.android.vending
 '
 
 # clearing Google Play services crashes Magisk Manager
