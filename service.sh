@@ -2,7 +2,10 @@
 
 MODPATH=/data/adb/modules/gsm_faker
 
-sleep 30s # wait for boot complete
+# wait for boot complete
+while [ "$(getprop sys.boot_completed)" != 1 ]; do
+    sleep 1
+done
 
 if [ -f $MODPATH/pm-clear ]; then
   su -c 'pm clear com.google.android.gms'
